@@ -20,6 +20,8 @@
   },
   "type": "module",
   "dependencies": {
+    "encoding": "^0.1.13",
+    "install": "^0.13.0",
     "twitter-lite": "^1.1.0"
   }
 }
